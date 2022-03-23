@@ -7,3 +7,11 @@ The dataset column refers to which dataset subset the account belongs to.
 
 You can also email me for full access to the data: tugrulcanelmas at gmail.com (Only for research purposes)
 
+Please also cite our paper:
+
+@article{elmas2021characterizing,
+  title={Characterizing Retweet Bots: The Case of Black Market Accounts},
+  author={Elmas, Tu{\u{g}}rulcan and Overdorf, Rebekah and Aberer, Karl},
+  journal={arXiv preprint arXiv:2112.02366},
+  year={2021}
+}
