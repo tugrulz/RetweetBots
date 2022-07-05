@@ -9,10 +9,12 @@ You can also email me for full access to the data: tugrulcanelmas at gmail.com (
 
 Please also cite our paper:
 ```
-@article{elmas2021characterizing,
+@inproceedings{elmas2022characterizing,
   title={Characterizing Retweet Bots: The Case of Black Market Accounts},
   author={Elmas, Tu{\u{g}}rulcan and Overdorf, Rebekah and Aberer, Karl},
-  journal={arXiv preprint arXiv:2112.02366},
-  year={2021}
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={16},
+  pages={171--182},
+  year={2022}
 }
 ```
